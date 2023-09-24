@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typing_king%20/static/css/main.6eadbc96.css",
+    "main.js": "/typing_king%20/static/js/main.a9293506.js",
+    "index.html": "/typing_king%20/index.html",
+    "main.6eadbc96.css.map": "/typing_king%20/static/css/main.6eadbc96.css.map",
+    "main.a9293506.js.map": "/typing_king%20/static/js/main.a9293506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eadbc96.css",
+    "static/js/main.a9293506.js"
+  ]
+}
